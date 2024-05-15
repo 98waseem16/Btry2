@@ -27,19 +27,25 @@ export default function Navbar() {
                 d="M0 16.8235C0 7.53215 7.58171 0 16.9342 0H38.7434C38.8851 0 39 0.114123 39 0.254902V22.1765C39 31.4678 31.4183 39 22.0658 39H16.9342C7.58171 39 0 31.4678 0 22.1765V16.8235Z"
                 fill="url(#paint0_linear_416_2)"
               />
-
-              <text
-                x="50%"
-                y="50%"
-                dominant-baseline="middle"
-                text-anchor="middle"
-                font-size="18"
-                font-family="Arial, sans-serif"
+              <path
+                d="M9.49342 19.6275H19.5V29.0588H13.3421C11.2165 29.0588 9.49342 27.347 9.49342 25.2353V19.6275Z"
                 fill="white"
-                fill-opacity="0.8"
-              >
-                B
-              </text>
+                fillOpacity="0.6"
+              />
+              <path
+                d="M19.5 19.6275H29.5066V25.2353C29.5066 27.347 27.7835 29.0588 25.6579 29.0588H19.5V19.6275Z"
+                fill="white"
+              />
+              <path
+                d="M9.49342 14.0196C9.49342 11.9079 11.2165 10.1961 13.3421 10.1961H19.5V19.6275H9.49342V14.0196Z"
+                fill="white"
+                fillOpacity="0.3"
+              />
+              <path
+                d="M19.5 10.1961H25.6579C27.7835 10.1961 29.5066 11.9079 29.5066 14.0196V19.6275H19.5V10.1961Z"
+                fill="white"
+                fillOpacity="0.2"
+              />
               <defs>
                 <linearGradient
                   id="paint0_linear_416_2"
