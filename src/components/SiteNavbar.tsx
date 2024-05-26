@@ -26,21 +26,21 @@ export default function SiteNavbar() {
               />
               <path
                 d="M9.49342 19.6275H19.5V29.0588H13.3421C11.2165 29.0588 9.49342 27.347 9.49342 25.2353V19.6275Z"
-                fill="white"
+                fill="black"
                 fillOpacity="0.6"
               />
               <path
                 d="M19.5 19.6275H29.5066V25.2353C29.5066 27.347 27.7835 29.0588 25.6579 29.0588H19.5V19.6275Z"
-                fill="white"
+                fill="black"
               />
               <path
                 d="M9.49342 14.0196C9.49342 11.9079 11.2165 10.1961 13.3421 10.1961H19.5V19.6275H9.49342V14.0196Z"
-                fill="white"
+                fill="black"
                 fillOpacity="0.3"
               />
               <path
                 d="M19.5 10.1961H25.6579C27.7835 10.1961 29.5066 11.9079 29.5066 14.0196V19.6275H19.5V10.1961Z"
-                fill="white"
+                fill="black"
                 fillOpacity="0.2"
               />
               <defs>
