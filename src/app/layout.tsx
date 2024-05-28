@@ -8,8 +8,8 @@ import { ClerkProvider } from '@clerk/nextjs'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'ChatBotKit Whitelabel',
-  description: 'Open-source white-label solution on top of ChatBotKit',
+  title: 'Breyta',
+  description: 'Malleble AI',
 }
 
 export default function RootLayout({
