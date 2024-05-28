@@ -4,7 +4,7 @@ import Navbar from '@/components/Navbar'
 import Toast from '@/components/Toast'
 
 export const metadata: Metadata = {
-  title: 'CBK Whitelabel',
+  title: 'Breyta',
 }
 
 export default function DashboardLayout({
