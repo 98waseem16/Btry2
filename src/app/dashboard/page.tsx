@@ -12,7 +12,7 @@ export default async function DashboardPage() {
     <main>
       <Heading
         title="Chatbots"
-        description="Find all you chatbots and create new ones..."
+        description="Find all your chatbots and create new ones..."
       >
         <CreateChatbotDialog />
       </Heading>
