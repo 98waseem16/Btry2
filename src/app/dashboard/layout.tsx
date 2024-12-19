@@ -5,7 +5,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
   return (
     <div className="flex min-h-screen">
       {/* Left-hand navigation bar */}
-      <nav className="bg-gray-800 text-white w-64 p-4 space-y-4">
+      <nav className="bg-black text-white w-64 p-4 space-y-4">
         <h2 className="text-xl font-bold mb-4">Menu</h2>
         <ul className="space-y-2">
           <li>
